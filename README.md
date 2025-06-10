@@ -19,14 +19,3 @@
     <img src="https://skillicons.dev/icons?i=dart,arduino,bash,firebase,bootstrap" /><br>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=52% src="https://github-readme-stats.vercel.app/api?username=jmarknavarro&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarknavarro&theme=react&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-<div align="center">
-  <h2 align="center">💛 Visitor count 💛</h2>
-  <img src="https://profile-counter.glitch.me/jmarknavarro/count.svg" />
-</div>
