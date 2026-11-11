@@ -28,16 +28,16 @@
  <text x="1035" y="190" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="600" fill="#09090b">N2S</text>
  <text x="1035" y="212" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2" fill="#52525b">IN PROGRESS</text>
 
- <rect x="64.5" y="56.5" width="214" height="31" rx="15.5" fill="#fafafa" stroke="#e4e4e7"/>
+ <rect x="64.5" y="56.5" width="182" height="31" rx="15.5" fill="#fafafa" stroke="#e4e4e7"/>
  <circle class="pulse" cx="84" cy="72" r="4" fill="#16a34a"/>
- <text x="98" y="76.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="1.2" fill="#52525b">BUILDING THE N2S APP</text>
+ <text x="98" y="76.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="1.2" fill="#52525b">BUILDING N2S-S1</text>
 
  <text x="62" y="196" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="650" letter-spacing="-1.5" fill="#09090b">John Mark Navarro</text>
  <text x="64" y="246" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="-0.3" fill="#52525b">Software &amp; embedded systems engineer.</text>
  <text x="64" y="280" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="-0.3" fill="#52525b">From web and mobile apps down to microcontrollers.</text>
 
- <line x1="64" y1="330" x2="560" y2="330" stroke="#e4e4e7"/>
- <text x="64" y="366" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.6" fill="#71717a">MANILA, PH  <tspan fill="#e4e4e7">/</tspan>  CINECAPTIONS.COM  <tspan fill="#e4e4e7">/</tspan>  @JMARKNAVARRO</text>
+ <line x1="64" y1="330" x2="640" y2="330" stroke="#e4e4e7"/>
+ <text x="64" y="366" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.6" fill="#71717a">MANILA, PH  <tspan fill="#e4e4e7">/</tspan>  EMBEDDED · MOBILE · WEB  <tspan fill="#e4e4e7">/</tspan>  @JMARKNAVARRO</text>
 </g>
 <rect x="0.5" y="0.5" width="1199" height="419" rx="20" fill="none" stroke="#e4e4e7"/>
 </svg>
