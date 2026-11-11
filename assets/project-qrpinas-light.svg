@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="QRPinas: QR Ph payment cards for GCash and Maya (qrpinas.vercel.app)">
-<rect x="0.5" y="0.5" width="1199" height="83" rx="16" fill="#ffffff" stroke="#e4e4e7"/>
-<line x1="200" y1="22" x2="200" y2="62" stroke="#e4e4e7"/>
-<text x="64" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#71717a">WEB</text>
-<text x="232" y="49" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="-0.2" fill="#09090b">QRPinas</text>
-<text x="420" y="49" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" letter-spacing="-0.2" fill="#52525b">QR Ph payment cards for GCash and Maya</text>
-<text x="1136" y="47" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="0.4" fill="#52525b">qrpinas.vercel.app<tspan dx="8" fill="#2563eb">↗</tspan></text>
-</svg>
