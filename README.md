@@ -1,21 +1,19 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+JM!;" />
-</h1>
+<a href="https://www.cinecaptions.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <img src="./assets/hero-light.svg" width="100%" alt="John Mark Navarro: software and embedded systems engineer, from web and mobile apps down to microcontrollers. Currently building the N2S App. Based in Manila, PH." />
+  </picture>
+</a>
 
-<div align="center">
-  
-🔭 I’m currently working on N2S App
+&nbsp;
 
-🌱 I’m continually learning everything 🤣
+I build things end to end: web and mobile apps on top, firmware and Arduino hardware underneath. Right now that's the **N2S App**. I'm always learning something new, and I like taking an idea from a sketch to something real.
 
-✨ I love exploring new ideas and turning them into reality
-  
-</div>
+&nbsp;
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,flutter" /><br>
-    <img src="https://skillicons.dev/icons?i=dart,arduino,bash,firebase,bootstrap" /><br>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <img src="./assets/stack-light.svg" width="100%" alt="Stack: C++, Python, Dart, JavaScript, PHP, HTML, CSS, Bash, Flutter, Bootstrap, Firebase, Arduino" />
+</picture>
 
+<p align="right"><sub><a href="https://www.cinecaptions.com/">cinecaptions.com</a> ↗</sub></p>

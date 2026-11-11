@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="John Mark Navarro, software and embedded systems engineer">
+<style>
+.flow{stroke-dasharray:28 420;animation:flow 4.5s linear infinite}
+.f2{animation-delay:-1.5s}.f3{animation-delay:-3s}
+.pulse{animation:pulse 2s ease-in-out infinite}
+@keyframes flow{from{stroke-dashoffset:448}to{stroke-dashoffset:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.flow,.pulse{animation:none}.flow{stroke-dasharray:none;opacity:.0}}
+</style>
+<defs>
+ <clipPath id="card"><rect x="0.5" y="0.5" width="1199" height="419" rx="20"/></clipPath>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#d4d4d8"/></pattern>
+ <radialGradient id="fade" cx="0.82" cy="0.4" r="0.75"><stop offset="0" stop-color="#fff" stop-opacity="0.9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+ <mask id="m"><rect width="1200" height="420" fill="url(#fade)"/></mask>
+ <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#3b82f6" stop-opacity="0.14"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#card)">
+ <rect width="1200" height="420" fill="#ffffff"/>
+ <rect width="1200" height="420" fill="url(#dots)" mask="url(#m)"/>
+ <ellipse cx="1035" cy="185" rx="300" ry="230" fill="url(#glow)"/>
+ <g fill="none" stroke="#dcdce0" stroke-width="1.5" stroke-linejoin="round"><path d="M1011,98 V40 H1060 V0"/><path d="M1059,98 V70 H1140 V30"/><path d="M987,98 V58 H930 V36"/><path d="M1122,161 H1160 V120 H1200"/><path d="M1122,209 H1150 V250 H1200"/><path d="M1035,272 V320 H990 V372"/><path d="M1083,272 V340 H1130 V420"/><path d="M948,185 H900 V150"/><path d="M948,233 H915 V300 H862"/></g>
+ <g fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path class="flow " d="M1011,98 V40 H1060 V0"/><path class="flow f2" d="M1122,209 H1150 V250 H1200"/><path class="flow f3" d="M1035,272 V320 H990 V372"/><path class="flow f2" d="M948,185 H900 V150"/></g>
+ <g fill="#ffffff" stroke="#a1a1aa" stroke-width="1.5"><circle cx="1140" cy="30" r="4"/><circle cx="930" cy="36" r="4"/><circle cx="990" cy="372" r="4"/><circle cx="900" cy="150" r="4"/><circle cx="862" cy="300" r="4"/></g>
+ <g stroke="#a1a1aa" stroke-width="2.5" stroke-linecap="round"><path d="M987,110 V98"/><path d="M987,260 V272"/><path d="M960,137 H948"/><path d="M1110,137 H1122"/><path d="M1011,110 V98"/><path d="M1011,260 V272"/><path d="M960,161 H948"/><path d="M1110,161 H1122"/><path d="M1035,110 V98"/><path d="M1035,260 V272"/><path d="M960,185 H948"/><path d="M1110,185 H1122"/><path d="M1059,110 V98"/><path d="M1059,260 V272"/><path d="M960,209 H948"/><path d="M1110,209 H1122"/><path d="M1083,110 V98"/><path d="M1083,260 V272"/><path d="M960,233 H948"/><path d="M1110,233 H1122"/></g>
+ <rect x="960" y="110" width="150" height="150" rx="16" fill="#fafafa" stroke="#a1a1aa" stroke-width="1.5"/>
+ <rect x="984" y="134" width="102" height="102" rx="8" fill="none" stroke="#e4e4e7" stroke-width="1.5"/>
+ <circle cx="972" cy="122" r="3" fill="#a1a1aa"/>
+ <text x="1035" y="190" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="600" fill="#09090b">N2S</text>
+ <text x="1035" y="212" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2" fill="#52525b">IN PROGRESS</text>
+
+ <rect x="64.5" y="56.5" width="214" height="31" rx="15.5" fill="#fafafa" stroke="#e4e4e7"/>
+ <circle class="pulse" cx="84" cy="72" r="4" fill="#16a34a"/>
+ <text x="98" y="76.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="1.2" fill="#52525b">BUILDING THE N2S APP</text>
+
+ <text x="62" y="196" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="650" letter-spacing="-1.5" fill="#09090b">John Mark Navarro</text>
+ <text x="64" y="246" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="-0.3" fill="#52525b">Software &amp; embedded systems engineer.</text>
+ <text x="64" y="280" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="-0.3" fill="#52525b">From web and mobile apps down to microcontrollers.</text>
+
+ <line x1="64" y1="330" x2="560" y2="330" stroke="#e4e4e7"/>
+ <text x="64" y="366" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.6" fill="#71717a">MANILA, PH  <tspan fill="#e4e4e7">/</tspan>  CINECAPTIONS.COM  <tspan fill="#e4e4e7">/</tspan>  @JMARKNAVARRO</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="419" rx="20" fill="none" stroke="#e4e4e7"/>
+</svg>
